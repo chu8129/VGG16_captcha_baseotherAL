@@ -11,3 +11,9 @@
     test:验证
     check:测试
 ```
+
+```
+    show.py:本来只想用来看图的，写着写着写成了生成图了；所以后续产生数据直接用run.sh
+    model.py:vgg
+    pred.py:测试，使用了model.py的两个函数
+```
